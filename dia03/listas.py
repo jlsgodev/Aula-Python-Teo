@@ -60,10 +60,3 @@ minha_lista[::-1] # acessa todos os elementos da lista de trás para frente
 
 # %%
 
-
-
-notas =[]
-notas = 7.75
-
-notas.append{nota}
-# %%
