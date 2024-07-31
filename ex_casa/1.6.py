@@ -7,7 +7,7 @@
 # Saída: 38:55:53
 
 
-segundos = int(input("Digite o número de segundos: ")) # Recebe um número em segundos
+segundos = int(input("Digite o número de segundos: ")) # Recebe um número em  segundos
 horas = segundos // 3600 # 3600 é o número de segundos em uma hora
 segundos = segundos % 3600  # % é o operador de módulo, que retorna o resto da divisão
 minutos = segundos // 60    # 60 é o número de segundos em um minuto

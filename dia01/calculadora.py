@@ -11,6 +11,8 @@ print (10 - 5)
 print (10 * 2)
 #%%
 
+
+
 print (10 / 2)  
 
 
@@ -34,5 +36,7 @@ print (7 // 3)
 
 # esponeciação
 print (2 ** 3)
+
+
 
 #%%
